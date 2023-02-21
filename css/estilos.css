@@ -1,0 +1,18 @@
+*{ font-family: 'Roboto', sans-serif; }
+h1 {margin-right: 725px;
+    margin-left: 725px;
+    font-style: italic; 
+    font-weight: bold;
+    border-style: dashed;
+    border-color: palevioletred;
+border-radius: 1px;
+    border: 1px dashed palevioletred;
+    color: purple; }
+p { color:red; }
+section {
+    width: 1050px;
+    border: 7px dashed rgb(171, 8, 103);
+    padding: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+  }
